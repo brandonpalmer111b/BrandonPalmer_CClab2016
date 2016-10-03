@@ -1,0 +1,55 @@
+/*/*//***/
+/*h1{
+	color:red;
+}*/
+
+/*.list {
+
+	font-family: helvetica;
+	font-size:15px;*/
+/*}*//**/
+
+/*body{
+
+width:960px;
+}*/
+
+#container{
+	margin:auto;
+	height:50vw;
+	width:50vw;
+}
+
+#dog {
+
+	height:300px;
+	width:300px;
+}
+
+
+h2 {
+    font-family:arial;
+
+}
+
+form {
+    display: inline-block;
+}
+
+#button{
+    display: inline-block;
+    height:20px;
+	width:50px;
+	background-color:#cc0000;
+	font-family:Helvetica;
+	font-weight:bold;
+	color:#ffffff;
+	border-radius: 50%;
+	text-align:center;
+	padding-top:5px;
+}
+
+.list {
+	font-family:garamond;
+	color:#cc0000;
+}

@@ -1,0 +1,60 @@
+body {
+  background-image: url("../images/gradient.jpg");
+  background-size:100%;
+   background-repeat:no-repeat;
+
+  
+}
+/*This code belongs to CSS Tricks*/
+.grow, #dot { transition: all .4s ease-in-out; }
+.grow:hover { transform: scale(1.1); }
+
+#button{
+  border:2px solid black;
+  display:block;
+}
+
+h1 {
+    font-size:20px;
+    color:000000;
+    
+}
+
+p {
+    font-size:20px;
+    border:2px solid black;
+    background-color:000000,.05;
+}
+
+#container{
+  position:relative;
+  top:150px;
+}
+
+#dot{
+  width:55px;
+  position:relative;
+  left:335px;
+  bottom:375px;
+}
+
+#text{
+  width:75%;
+  position:relative;
+  left:55px;
+  bottom:190px;
+}
+
+img {
+  
+  /*height:400px;*/
+  width:100%;
+  /*background-color:red;*/
+  text-align:center;
+  
+}
+
+.colorChange {
+  font-family:helvetica;
+  font-size:500px;
+}
