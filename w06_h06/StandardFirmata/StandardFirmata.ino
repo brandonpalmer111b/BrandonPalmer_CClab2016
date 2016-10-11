@@ -1,4 +1,7 @@
 //I used Firmata as a source
+// I also used this tutorial as reference to set up the joystick controls
+//https://www.youtube.com/watch?v=MlDi0vO9Evg
+//The Joystick control code belongs to Brainy Bits Channel
 
 /*
   Firmata is a generic protocol for communicating with microcontrollers
